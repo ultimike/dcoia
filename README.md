@@ -12,3 +12,6 @@ It also includes a dependency on "DDEV + Drupal + Gitpod.io" that allows for eas
 
 1.  Create an account on gitpod.io
 2.  Open the following URL to utilize this project on gitpod.io: https://gitpod.io/#github.com/ultimike/dcoia
+3.  Wait for the "A service is available on port 8080" message to appear in Gitpod.io Terminal interface.
+4.  Use `gp url 8080` in the Gitpod.io Terminal to view the Drupal site's URL.
+5.  Run the Drupal installer.
