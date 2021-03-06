@@ -11,7 +11,8 @@ This repository includes Drupal 9 and various contributed modules necessary for 
 It also includes a dependency on "DDEV + Drupal + Gitpod.io" that allows for easy use on gitpod.io. To utilize:
 
 1.  Create an account on gitpod.io
-2.  Open the following URL to utilize this project on gitpod.io: https://gitpod.io/#github.com/ultimike/dcoia
-3.  Wait for the "A service is available on port 8080" message to appear in Gitpod.io Terminal interface.
-4.  Use `gp url 8080` in the Gitpod.io Terminal to view the Drupal site's URL.
-5.  Run the Drupal installer.
+2.  Go to gitpod.io/settings and select "Enable feature preview".
+3.  Open the following URL to utilize this project on gitpod.io: https://gitpod.io/#github.com/ultimike/dcoia
+4.  Wait for the "A service is available on port 8080" message to appear in Gitpod.io Terminal interface.
+5.  Use `gp url 8080` in the Gitpod.io Terminal to view the Drupal site's URL.
+6.  Run the Drupal installer.
